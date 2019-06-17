@@ -1,5 +1,5 @@
 from datetime import datetime
-import time
+# import time
 ti=str(time.ctime())
 dt=str(datetime.today())
 Da=ti[0:3]
